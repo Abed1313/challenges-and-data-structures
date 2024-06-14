@@ -12,3 +12,6 @@
 
 ### Challenge 3: Maximum Value
 ![Maximum Value](./whiteboard-challenges/assest/C3.PNG) 
+
+### Challenge 4: Remove Middle Value
+![Remove Middle Value](./whiteboard-challenges/assest/F4.PNG)
