@@ -13,6 +13,5 @@
 
 ### Challenge 4: Remove Middle Value [Link](https://github.com/Abed1313/challenges-and-data-structures/blob/main/whiteboard-challenges/assest/F4.PNG)
 
-### Challenge 4 : Add Middle Value
-![Add Middle Value](./whiteboard-challenges/assest/CH4.PNG)
+### Challenge 4 : Add Middle Value [Link](https://github.com/Abed1313/challenges-and-data-structures/blob/main/whiteboard-challenges/assest/CH4.PNG)
 
