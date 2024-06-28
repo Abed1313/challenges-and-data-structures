@@ -14,10 +14,10 @@
 ### Challenge 4: Remove Middle Value [Link](https://github.com/Abed1313/challenges-and-data-structures/blob/main/whiteboard-challenges/assest/F4.PNG)
 
 ### Challenge 4 : Add Middle Value [Link](https://github.com/Abed1313/challenges-and-data-structures/blob/main/whiteboard-challenges/assest/CH4.PNG)
-
+{
 ### Challenge : Find Duplicates in Array [Link](https://github.com/Abed1313/challenges-and-data-structures/blob/main/whiteboard-challenges/assest/C5.PNG)
 ### Whiteboard Image : [Link](https://github.com/Abed1313/challenges-and-data-structures/blob/main/whiteboard-challenges/assest/CH5.PNG)
-
+}
 
 
 
